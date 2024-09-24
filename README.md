@@ -13,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anupam6053/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0907-koko-eating-bananas](https://github.com/Anupam6053/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anupam6053/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Anupam6053/LeetCode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
