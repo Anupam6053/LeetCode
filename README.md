@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Anupam6053/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/Anupam6053/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2058-concatenation-of-array](https://github.com/Anupam6053/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anupam6053/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anupam6053/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Anupam6053/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/Anupam6053/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anupam6053/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anupam6053/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anupam6053/LeetCode/tree/master/0125-valid-palindrome) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anupam6053/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Anupam6053/LeetCode/tree/master/2058-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anupam6053/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
