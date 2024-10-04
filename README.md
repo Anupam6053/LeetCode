@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anupam6053/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anupam6053/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Anupam6053/LeetCode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam6053/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anupam6053/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anupam6053/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anupam6053/LeetCode/tree/master/0242-valid-anagram) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anupam6053/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anupam6053/LeetCode/tree/master/0242-valid-anagram) |
 | [2634-minimum-common-value](https://github.com/Anupam6053/LeetCode/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
