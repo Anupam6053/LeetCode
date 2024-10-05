@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anupam6053/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anupam6053/LeetCode/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Anupam6053/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam6053/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/Anupam6053/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2634-minimum-common-value](https://github.com/Anupam6053/LeetCode/tree/master/2634-minimum-common-value) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anupam6053/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anupam6053/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anupam6053/LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Anupam6053/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam6053/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/Anupam6053/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anupam6053/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Anupam6053/LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Anupam6053/LeetCode/tree/master/0567-permutation-in-string) |
 | [2634-minimum-common-value](https://github.com/Anupam6053/LeetCode/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anupam6053/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Anupam6053/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
