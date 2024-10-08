@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Anupam6053/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam6053/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/Anupam6053/LeetCode/tree/master/0953-reverse-only-letters) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anupam6053/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2634-minimum-common-value](https://github.com/Anupam6053/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anupam6053/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Anupam6053/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anupam6053/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anupam6053/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anupam6053/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String Matching
 |  |
 | ------- |
@@ -100,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anupam6053/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anupam6053/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anupam6053/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Anupam6053/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anupam6053/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
 | ------- |
