@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anupam6053/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anupam6053/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Anupam6053/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anupam6053/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anupam6053/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Anupam6053/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/Anupam6053/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anupam6053/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Anupam6053/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anupam6053/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anupam6053/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Anupam6053/LeetCode/tree/master/0567-permutation-in-string) |
 | [2634-minimum-common-value](https://github.com/Anupam6053/LeetCode/tree/master/2634-minimum-common-value) |
 ## Stack
