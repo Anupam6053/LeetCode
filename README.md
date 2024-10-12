@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Anupam6053/LeetCode/tree/master/0007-reverse-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anupam6053/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sliding Window
 |  |
