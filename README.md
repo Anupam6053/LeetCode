@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anupam6053/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anupam6053/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anupam6053/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Anupam6053/LeetCode/tree/master/0058-length-of-last-word) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anupam6053/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Anupam6053/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Anupam6053/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anupam6053/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anupam6053/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anupam6053/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Anupam6053/LeetCode/tree/master/0013-roman-to-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anupam6053/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sliding Window
 |  |
