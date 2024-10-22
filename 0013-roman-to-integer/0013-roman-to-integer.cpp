@@ -26,7 +26,7 @@ public:
                 sum +=num(s[index]);
                 index++;
         }
-         sum+=num(s[index]);
+         sum +=num(s[index]);
         return sum;
     }
 };
