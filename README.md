@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anupam6053/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Anupam6053/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anupam6053/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/Anupam6053/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Anupam6053/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Anupam6053/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anupam6053/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anupam6053/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anupam6053/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Anupam6053/LeetCode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Anupam6053/LeetCode/tree/master/0204-count-primes) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anupam6053/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sliding Window
 |  |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anupam6053/LeetCode/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anupam6053/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anupam6053/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
