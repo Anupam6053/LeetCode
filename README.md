@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Anupam6053/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/Anupam6053/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1651-shuffle-string](https://github.com/Anupam6053/LeetCode/tree/master/1651-shuffle-string) |
+| [1755-defuse-the-bomb](https://github.com/Anupam6053/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2058-concatenation-of-array](https://github.com/Anupam6053/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2634-minimum-common-value](https://github.com/Anupam6053/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anupam6053/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Anupam6053/LeetCode/tree/master/0567-permutation-in-string) |
+| [1755-defuse-the-bomb](https://github.com/Anupam6053/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Trie
 |  |
 | ------- |
