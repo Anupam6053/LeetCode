@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anupam6053/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Anupam6053/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anupam6053/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Anupam6053/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Anupam6053/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Anupam6053/LeetCode/tree/master/0231-power-of-two) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Anupam6053/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Sliding Window
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anupam6053/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Anupam6053/LeetCode/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
